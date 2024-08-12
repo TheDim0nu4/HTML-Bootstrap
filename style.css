@@ -1,0 +1,36 @@
+header{
+    background-attachment: fixed;
+    height: 650px;
+    background-image: url("https://s1.1zoom.me/b5050/949/430357-Kycb_3840x2400.jpg");
+    background-size: cover;
+    background-color: #7c8a80;
+    background-blend-mode: multiply;
+}
+
+section{
+    height: 340px;
+}
+
+main{
+    height: 400px;
+}
+
+.p-main{
+    opacity: 0.75;
+}
+
+
+footer{
+    background-image: url("https://static.wixstatic.com/media/347553_767bec74b40d4e9aa7c782b79bb60cac~mv2.png/v1/fill/w_1000,h_667,al_c,q_90,usm_0.66_1.00_0.01/347553_767bec74b40d4e9aa7c782b79bb60cac~mv2.png");
+    background-attachment: fixed;
+    height: 550px;
+    background-size: cover;
+    background-color: #7c8a80;
+    background-blend-mode:  multiply;
+}
+
+@media(max-width: 576px){
+    main{
+        height: 800px;
+    }
+}
