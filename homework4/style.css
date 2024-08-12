@@ -26,7 +26,7 @@ footer{
     height: 550px;
     background-size: cover;
     background-color: #7c8a80;
-    background-blend-mode: multiply;
+    background-blend-mode:  multiply;
 }
 
 @media(max-width: 576px){
